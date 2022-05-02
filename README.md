@@ -16,7 +16,7 @@ The project is in Jupyter Note with the following libraries:
 
 ## Installation Guide
 
-No current installation for specific programs, as long as required libraries are imported.
+Install required libraries for progran to function correctly.
 
 ## Usage
 
