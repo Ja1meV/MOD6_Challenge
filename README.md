@@ -14,6 +14,8 @@ The project is in Jupyter Note with the following libraries:
 
 * [Hvplot] 
 
+* [Pathlib] 
+
 ## Installation Guide
 
 Install required libraries for progran to function correctly.
